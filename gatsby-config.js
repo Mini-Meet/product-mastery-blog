@@ -10,7 +10,7 @@ module.exports = {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
   plugins: [
-    'gatsby-plugin-sitemap',
+    'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-source-filesystem',
@@ -43,6 +43,7 @@ module.exports = {
         ],
       },
     },
+    'gatsby-plugin-sitemap',
     'gatsby-transformer-json',
     {
       resolve: 'gatsby-plugin-canonical-urls',
@@ -52,7 +53,6 @@ module.exports = {
     },
     'gatsby-plugin-emotion',
     'gatsby-plugin-typescript',
-    'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     'gatsby-plugin-feed',

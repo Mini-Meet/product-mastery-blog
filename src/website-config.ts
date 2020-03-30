@@ -52,7 +52,7 @@ const config: WebsiteConfig = {
   title: 'Product Mastery',
   description: 'We Train Product Managers to Double Their Salary & Build Great Products within 12 months',
   coverImage: 'img/blog-cover-trees.jpg',
-  logo: 'img/pm-logo.svg',
+  logo: 'img/pm-logo-white.png',
   lang: 'en',
   siteUrl: 'https://blog.productmastery.co',
   linkedin: 'https://www.linkedin.com/in/henry-latham-a78245a6/',
