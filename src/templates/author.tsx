@@ -21,7 +21,7 @@ import {
   SocialLink,
 } from '../styles/shared';
 import { PageContext } from './post';
-import Facebook from '../components/icons/facebook';
+import LinkedIn from '../components/icons/linkedin';
 import Helmet from 'react-helmet';
 import config from '../website-config';
 import Website from '../components/icons/website';
@@ -94,7 +94,7 @@ interface AuthorTemplateProps {
       id: string;
       website?: string;
       twitter?: string;
-      facebook?: string;
+      linkedin?: string;
       location?: string;
       // eslint-disable-next-line @typescript-eslint/camelcase
       profile_image?: {
@@ -136,8 +136,8 @@ const Author: React.FC<AuthorTemplateProps> = props => {
         <meta property="og:type" content="profile" />
         <meta property="og:title" content={`${author.id} - ${config.title}`} />
         <meta property="og:url" content={config.siteUrl + props.pathContext.slug} />
-        <meta property="article:publisher" content="https://www.facebook.com/ghost" />
-        <meta property="article:author" content="https://www.facebook.com/ghost" />
+        <meta property="article:publisher" content="https://www.linkedin.com/in/henry-latham-a78245a6/" />
+        <meta property="article:author" content="https://www.linkedin.com/in/henry-latham-a78245a6/" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={`${author.id} - ${config.title}`} />
         <meta name="twitter:url" content={config.siteUrl + props.pathContext.slug} />
@@ -200,28 +200,16 @@ const Author: React.FC<AuthorTemplateProps> = props => {
                     </a>
                   </div>
                 )}
-                {author.twitter && (
-                  <a
-                    className="social-link-tw"
-                    css={SocialLink}
-                    href={`https://twitter.com/${author.twitter}`}
-                    title="Twitter"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <Twitter />
-                  </a>
-                )}
-                {author.facebook && (
+                {author.linkedin && (
                   <a
                     className="social-link-fb"
                     css={SocialLink}
-                    href={`https://www.facebook.com/${author.facebook}`}
-                    title="Facebook"
+                    href={`https://www.linkedin.com/${author.linkedin}`}
+                    title="LinkedIn"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <Facebook />
+                    <LinkedIn />
                   </a>
                 )}
                 {/* TODO: RSS for author */}
@@ -268,7 +256,7 @@ export const pageQuery = graphql`
       website
       twitter
       bio
-      facebook
+      linkedin
       location
       profile_image {
         childImageSharp {

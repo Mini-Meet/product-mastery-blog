@@ -15,7 +15,7 @@ export interface WebsiteConfig {
   /**
    * full url, no username
    */
-  facebook?: string;
+  linkedin?: string;
   /**
    * full url, no username
    */
@@ -50,19 +50,19 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Product Mastery',
-  description: 'We Empower Product Leaders to Prosper in A Remote, Uncertain World',
-  coverImage: 'img/blog-cover.jpg',
+  description: 'We Train Product Managers to Double Their Salary & Build Great Products within 12 months',
+  coverImage: 'img/blog-cover-trees.jpg',
   logo: 'img/pm-logo.svg',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
-  facebook: 'https://www.facebook.com/ghost',
+  siteUrl: 'https://blog.productmastery.co',
+  linkedin: 'https://www.linkedin.com/in/henry-latham-a78245a6/',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
-  mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
+  mailchimpAction: 'https://productmastery.us5.list-manage.com/subscribe/post?u=9452004c3109652cfc9a9e3e1&amp;id=3dd26bab04',
   mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
-  footer: 'is based on Gatsby Casper',
+  footer: '',
 };
 
 export default config;

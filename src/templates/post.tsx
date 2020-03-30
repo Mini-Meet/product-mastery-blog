@@ -72,7 +72,7 @@ const PostFullMeta = styled.section`
 `;
 
 const PostFullMetaDate = styled.time`
-  color: ${colors.blue};
+  color: ${colors.yellow};
 `;
 
 export const PostFullTitle = styled.h1`
@@ -237,8 +237,8 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
           <meta property="article:tag" content={post.frontmatter.tags[0]} />
         )}
 
-        {config.facebook && <meta property="article:publisher" content={config.facebook} />}
-        {config.facebook && <meta property="article:author" content={config.facebook} />}
+        {config.linkedin && <meta property="article:publisher" content={config.linkedin} />}
+        {config.linkedin && <meta property="article:author" content={config.linkedin} />}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={post.frontmatter.title} />
         <meta name="twitter:description" content={post.excerpt} />
@@ -330,7 +330,7 @@ export default PageTemplate;
 
 export const query = graphql`
   query($slug: String, $primaryTag: String) {
-    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
+    logo: file(relativePath: { eq: "img/pm-logo-white.png" }) {
       childImageSharp {
         fixed {
           ...GatsbyImageSharpFixed

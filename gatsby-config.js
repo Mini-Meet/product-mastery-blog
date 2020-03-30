@@ -3,8 +3,8 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Product Mastery',
-    description: 'We Empower Product Leaders to Prosper in A Remote, Uncertain World',
-    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
+    description: 'We Train Product Managers to Double Their Salary & Build Great Products within 12 months',
+    siteUrl: 'https://blog.productmastery.co', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -63,7 +63,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: 'UA-XXXX-Y',
         // Puts tracking script in the head instead of the body

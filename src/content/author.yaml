@@ -2,14 +2,14 @@
   avatar: avatars/ghost.png
   bio: The professional publishing platform
   twitter: TryGhost
-  facebook: ghost
+  linkedin: ghost
   website: https://ghost.org/
   location: On a plane
-- id: Another Author
-  avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image
+- id: Henry Latham
+  avatar: avatars/henry.png
+  bio: CEO & Founder, Product Mastery
   twitter: TryGhost
-  facebook: ghost
-  website: https://ghost.org/
-  location: On a plane
-  profile_image: img/alex-knight-326705-unsplash.jpg
+  linkedin: in/henry-latham-a78245a6/
+  website: https://productmastery.co/
+  location: Thoughts on Product & Leadership
+  profile_image: img/author-cover.jpg
