@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Product Mastery',
-  description: 'We Train Product Managers to Double Their Salary & Build Great Products within 12 months',
+  description: 'We Train Product Managers to Master Product Management With 5 Minutes per Week',
   coverImage: 'img/blog-cover-trees.jpg',
   logo: 'img/pm-logo-white.png',
   lang: 'en',

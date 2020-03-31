@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Product Mastery',
-    description: 'We Train Product Managers to Double Their Salary & Build Great Products within 12 months',
+    description: 'We Train Product Managers to Master Product Management With 5 Minutes per Week',
     siteUrl: 'https://blog.productmastery.co', // full path to blog - no ending slash
   },
   mapping: {
