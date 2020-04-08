@@ -2,7 +2,7 @@
 layout: post
 title: "Strategy Update Feb 2020"
 author: Henry Latham
-tags: [ "Strategy", "Product" ]
+tags: [ "strategy", "product management" ]
 image: img/articles/inspiration-12.jpg
 date: "2020-02-24T22:40:32.169Z"
 draft: false

@@ -2,7 +2,7 @@
 layout: post
 title: "About Our Team"
 author: Henry Latham
-tags: [ "Culture", "Team" ]
+tags: [ "culture", "leadership" ]
 image: img/articles/henry-team.jpg
 date: "2020-01-15T22:40:32.169Z"
 draft: false

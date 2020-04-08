@@ -2,7 +2,7 @@
 layout: post
 title: "One Trick To Build Better Products, Faster"
 author: Henry Latham
-tags: [ "Lean", "Product", "Process" ]
+tags: [ "agile", "product management" ]
 image: img/articles/inspiration-1.jpg
 date: "2019-05-14T22:40:32.169Z"
 draft: false

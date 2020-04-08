@@ -2,7 +2,7 @@
 layout: post
 title: "How to Make Sure You’re not Wasting the Next 5-10 Years of Your Professional Life"
 author: Henry Latham
-tags: [ "Vision", "Purpose" ]
+tags: [ "vision", "strategy" ]
 image: img/articles/work-3.jpg
 date: "2019-06-21T22:40:32.169Z"
 draft: false

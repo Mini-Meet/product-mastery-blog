@@ -2,7 +2,7 @@
 layout: post
 title: "Alignment, Focus & Business Success"
 author: Henry Latham
-tags: [ "Focus", "Purpose" ]
+tags: [ "leadership", "strategy" ]
 image: img/articles/inspiration-4.jpg
 date: "2019-09-21T22:40:32.169Z"
 draft: false

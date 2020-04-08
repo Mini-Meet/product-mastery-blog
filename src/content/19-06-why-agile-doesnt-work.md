@@ -2,7 +2,7 @@
 layout: post
 title: "Why Agile Doesn’t Work"
 author: Henry Latham
-tags: [ "Agile", "Anti-Patterns" ]
+tags: [ "agile", "startup" ]
 image: img/articles/inspiration-3.jpg
 date: "2019-08-07T22:40:32.169Z"
 draft: false

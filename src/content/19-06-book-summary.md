@@ -2,7 +2,7 @@
 layout: post
 title: "Why Your Startup is Failing"
 author: Henry Latham
-tags: [ "Startup", "Popular" ]
+tags: [ "startup", "popular" ]
 image: img/articles/inspiration-2.jpg
 date: "2019-06-20T22:40:32.169Z"
 draft: false

@@ -2,7 +2,7 @@
 layout: post
 title: "Which Faceless Corporation Runs Product Mastery?"
 author: Henry Latham
-tags: [ "Culture", "Bootstrapping", "Popular" ]
+tags: [ "culture", "startup", "popular" ]
 image: img/articles/inspiration-11.jpg
 date: "2020-01-15T22:40:32.169Z"
 draft: false

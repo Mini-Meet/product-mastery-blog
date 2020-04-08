@@ -142,6 +142,15 @@ class SiteNav extends React.Component<SiteNavProps> {
             <li role="menuitem">
               <Link to="/tags/videos/">Videos</Link>
             </li>
+            <li role="menuitem">
+              <a
+                href="https://www.amazon.com/Why-Your-Startup-Failing-foundations-ebook/dp/B07XD444YV/ref=pd_rhf_ee_p_img_1?_encoding=UTF8&psc=1&refRID=5X596WYG1237FMSSWZ7E"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Book
+              </a>
+            </li>
           </ul>
         </SiteNavLeft>
         <SiteNavRight>

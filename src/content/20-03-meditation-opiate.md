@@ -2,7 +2,7 @@
 layout: post
 title: "Are meditation apps the modern 'opiate of the masses'?"
 author: Henry Latham
-tags: [ "Strategy", "Psychology" ]
+tags: [ "strategy" ]
 image: img/articles/inspiration-7.jpg
 date: "2020-03-11T22:40:32.169Z"
 draft: false

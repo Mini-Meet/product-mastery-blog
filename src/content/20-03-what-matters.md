@@ -2,7 +2,7 @@
 layout: post
 title: "What Matters in Product Management"
 author: Henry Latham
-tags: [ "Product Management", "Product"]
+tags: [ "product management", "startup"]
 image: img/articles/inspiration-8.jpg
 date: "2020-03-18T22:40:32.169Z"
 draft: false

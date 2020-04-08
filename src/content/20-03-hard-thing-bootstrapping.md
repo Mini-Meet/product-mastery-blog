@@ -2,7 +2,7 @@
 layout: post
 title: "The Hard Thing About Bootstrapping"
 author: Henry Latham
-tags: [ "Bootstrapping", "Startup" ]
+tags: [ "startup" ]
 image: img/articles/inspiration-6.jpg
 date: "2020-03-04T22:40:32.169Z"
 draft: false

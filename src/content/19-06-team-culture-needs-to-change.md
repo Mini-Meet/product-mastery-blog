@@ -2,7 +2,7 @@
 layout: post
 title: "Team Culture Needs to Change"
 author: Henry Latham
-tags: [ "Team", "Team Culture", "Decision-Making" ]
+tags: [ "leadership", "culture" ]
 image: img/articles/work-2.jpg
 date: "2019-05-01T22:40:32.169Z"
 draft: false

@@ -1,3 +1,39 @@
-- id: speeches
+- id: Popular
+  description: Some of the greatest words ever spoken.
+  image: img/author-cover.jpg
+
+- id: Videos
+  description: Some of the greatest words ever spoken.
+  image: img/author-cover.jpg
+
+- id: Product management
+  description: Some of the greatest words ever spoken.
+  image: img/author-cover.jpg
+
+- id: Vision
+  description: Some of the greatest words ever spoken.
+  image: img/author-cover.jpg
+
+- id: Strategy
+  description: Some of the greatest words ever spoken.
+  image: img/author-cover.jpg
+
+- id: Startup
+  description: Some of the greatest words ever spoken.
+  image: img/author-cover.jpg
+
+- id: Agile
+  description: Some of the greatest words ever spoken.
+  image: img/author-cover.jpg
+
+- id: Leadership
+  description: Some of the greatest words ever spoken.
+  image: img/author-cover.jpg
+
+- id: Culture
+  description: Some of the greatest words ever spoken.
+  image: img/author-cover.jpg
+
+- id: Design Sprint
   description: Some of the greatest words ever spoken.
   image: img/author-cover.jpg
