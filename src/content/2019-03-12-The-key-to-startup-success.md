@@ -10,7 +10,7 @@ draft: false
 
 
 <figure class="" style="">
-	<img src="/media/book-blocks-wide.jpg" alt="Foundations for Success">
+	<img src="./media/book-blocks-wide.jpg" alt="Foundations for Success">
 	<figcaption>Building foundations for product success</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ draft: false
 ---
 
 <figure class="" style="min-width: 100%;">
-	<img src="/media/2019_05_14/img1.jpg" alt="Kanban Board">
+	<img src="./media/2019_05_14/img1.jpg" alt="Kanban Board">
 	<figcaption>Hypothesis-Driven Product Process</figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ Although we cannot radically change the way our entire team operates, due to the
 Assuming your team follows some variation of the traditional to-do list, such as using a Kanban board to organise tasks, it requires a simple rethink of how those tasks are managed.
 
 <figure class="" style="min-width: 100%;">
-	<img src="/media/2019_05_14/img1.jpg" alt="Kanban Board">
+	<img src="./media/2019_05_14/img1.jpg" alt="Kanban Board">
 	<figcaption>Hypothesis-Driven Product Process</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ One small change that will have an iterative, positive impact on your approach t
 4. Being Validated: Tasks are redefined as ‘experiments’ in this system (which I will explain below). Each experiment has a very clear hypothesis to answer, which is always in relation to the key metric we are trying to achieve in order to validate the current strategy we are working on. By tracking the result of our experiment, we can track whether we have answered that hypothesis, and therefore whether the experiment has been validated or not
 
 <figure class="" style="min-width: 100%;">
-	<img src="/media/2019_05_14/img2.jpg" alt="Kanban Board">
+	<img src="./media/2019_05_14/img2.jpg" alt="Kanban Board">
 	<figcaption>A Hypothesis-Driven Experiment (Template)</figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ Each task must therefore be defined as a clear experiment, taken from a template
 3. **Checklist:** As everything we do as a squad is directed towards answering our hypothesis statement, all sub-tasks to make this experiment happen should be within the same card (it seems unimportant, but, again, it just relentlessly focuses the whole team on answering & reviewing the hypothesis, rather than just mindlessly getting a list of things done)
 
 <figure class="" style="min-width: 100%;">
-	<img src="/media/2019_05_14/img3.jpg" alt="Kanban Board">
+	<img src="./media/2019_05_14/img3.jpg" alt="Kanban Board">
 	<figcaption>A Hypothesis-Driven Experiment</figcaption>
 </figure>
 

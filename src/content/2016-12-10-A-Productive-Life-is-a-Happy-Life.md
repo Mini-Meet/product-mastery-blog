@@ -166,7 +166,7 @@ b) Lesson learnt: Write down something that I learnt that day (or the day before
 c) Diary: Just free-flow writing on anything and everything. This can be on what I did the day before, my thoughts on my own thoughts, writing about something that made me happy/sad, ideas for an article, expanding upon my ‘Lesson Learnt’ section.
 
 
-![productive-life-1.jpg](/media/productive-life-1.jpg)
+![productive-life-1.jpg](./media/productive-life-1.jpg)
 <figcaption>Example: Journal Entry</figcaption>
 
 
@@ -189,7 +189,7 @@ I will then aim to achieve one task within each block, sometimes 2–3. It reall
 The most important task will always go first.
 
 
-![productive-life-2.jpg](/media/productive-life-2.jpg)
+![productive-life-2.jpg](./media/productive-life-2.jpg)
 <figcaption>90-Minute Blocks</figcaption>
 
 
@@ -205,7 +205,7 @@ I find this also clears my head considerably, as you have fewer things floating 
 I will try and fight the desire to keep adding to my list. If I finish all of my to-do list early then great, go and reward yourself by doing whatever hobbies you enjoy. Don’t keep adding to the list.
 
 
-![productive-life-3.jpg](/media/productive-life-3.jpg)
+![productive-life-3.jpg](./media/productive-life-3.jpg)
 <figcaption>My To-Do List (the numbers denote a 90-minute block)</figcaption>
 
 

@@ -89,7 +89,7 @@ Priorities come into focus, the endless, seemingly important tasks that used to 
 To define our strategy, we do so prominently, as part of our business & product development process:
 
 <figure class="" style="min-width: 100%;">
-	<img src="/media/20190415/image4.png" alt="Vision and Strategy">
+	<img src="./media/20190415/image4.png" alt="Vision and Strategy">
 	<figcaption>Example from my personal brand vision & strategy</figcaption>
 </figure>
 
@@ -124,14 +124,14 @@ Therefore, in order to keep ourselves focused on answering our strategic assumpt
 As you move into executing to achieve our strategy, you can manage your time using the following framework to keep you focused on your goals:
 
 <figure class="" style="margin: 40px auto; min-width: 100%;">
-	<img src="/media/20190415/image1.png" alt="Vision and Strategy">
+	<img src="./media/20190415/image1.png" alt="Vision and Strategy">
 	<figcaption>My personal strategy to sell 100 book copies</figcaption>
 </figure>
 
 1. On a second tab, write out the big strategic assumption you must answer to validate whether your strategy is working or not. For me, for example, I’m currently working out whether ‘1000 True Fans (customers) will buy my book’.
 
 <figure class="" style="margin: 40px auto; min-width: 100%;">
-	<img src="/media/20190415/image2.png" alt="Vision and Strategy">
+	<img src="./media/20190415/image2.png" alt="Vision and Strategy">
 	<figcaption>The key metrics to track my progress towards my strategic goal</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ As you move into executing to achieve our strategy, you can manage your time usi
 	3. Ultimately sell 100 copies of my book to that audience (it could obviously be more than 100, but that seemed to me a good first goal to aim for before redefining my approach)
 
 	<figure class="" style="margin: 40px auto; min-width: 100%;">
-		<img src="/media/20190415/image3.png" alt="Vision and Strategy">
+		<img src="./media/20190415/image3.png" alt="Vision and Strategy">
 		<figcaption>Experiments I am running to achieve my strategic goal</figcaption>
 	</figure>
 
