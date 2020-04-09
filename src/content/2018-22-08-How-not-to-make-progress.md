@@ -8,7 +8,6 @@ date: "2018-08-22T22:40:32.169Z"
 draft: false
 ---
 
-
 Taking the metaphorical plunge
 
 When I think back to the times I’ve made significant changes in my life, they can almost always be identified by one clear moment:

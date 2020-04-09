@@ -1,14 +1,11 @@
 ---
-title: The Genius
+layout: post
+title: "The Genius"
+author: Henry Latham
+tags: [ "self" ]
+image: img/articles/dark.jpg
 date: "2018-04-05T22:40:32.169Z"
-template: "post"
 draft: false
-slug: "/posts/the-genius"
-category: "Ego"
-tags:
-  - "Be Mindful"
-  - "Ego"
-description: "Companies aren’t run by Steve Jobs-type visionaries."
 ---
 
 

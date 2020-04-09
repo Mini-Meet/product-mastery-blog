@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Agile Doesn’t Work"
+title: "Why Agile Doesn't Work"
 author: Henry Latham
 tags: [ "agile" ]
 image: img/articles/dark.jpg

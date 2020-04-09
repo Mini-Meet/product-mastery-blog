@@ -86,7 +86,7 @@ const Footer: React.FC = () => {
           )}
 
           <a href="https://productmastery.co" target="_blank" rel="noopener noreferrer">
-            Product Mastery
+            Website
           </a>
 
           <a href="/rss.xml">RSS</a>

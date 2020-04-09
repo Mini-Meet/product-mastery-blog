@@ -1,16 +1,13 @@
 ---
-title: ‘Ethical Design’ is a Dangerous Term
-date: "2018-09-04T22:40:32.169Z"
-template: "post"
+layout: post
+title: "‘Ethical Design’ is a Dangerous Term"
+author: Henry Latham
+tags: [ "ethics" ]
+image: img/articles/dark.jpg
+date: "2018-04-09T22:40:32.169Z"
 draft: false
-slug: "/posts/ethical-design"
-category: "Product"
-tags:
-  - "Product"
-  - "Design"
-  - "Ethics"
-description: "How to Approach Implementing ‘Ethical Design’"
 ---
+
 
 *A caveat: Concepts such as freedom, equality & justice are very loaded terms. They cannot — nor should they —be accepted as definitive, clear-cut concepts. Forming your own intepretation of these concepts is key to promulgating what you believe ethical action to constitute. To avoid getting too stuck in the theory, I have simplified my dealings with certain concepts. I have also added further reading at the bottom of the article for those willing to spend the time reading into the history & various interpretations of ‘freedom’, ‘equality’ & ‘justice’.
 A caveat to the caveat: Unfortunately many of you will realise that this subject is not a quick ‘2-minute read’. To actually understand the problematic, multi-faceted nature of concepts like ‘freedom’ you’re going to have to put some work in. However, what would you rather do? Spend your limited time on this planet naïvely creating unethical products, because you couldn’t be bothered to educate yourself? Or educate yourself in order to enable positive change in the world?*
