@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Product Mastery',
-  description: 'We Help You Build A High-Impact Roadmap in 60 Minutes',
+  description: 'We Teach You to Build A Profitable Product in 6 Weeks',
   coverImage: 'img/blog-cover-trees.jpg',
   logo: 'img/pm-logo-white.png',
   lang: 'en',

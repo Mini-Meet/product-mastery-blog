@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Product Mastery',
-    description: 'We Help You Build A High-Impact Roadmap in 60 Minutes',
+    description: 'We Teach You to Build A Profitable Product in 6 Weeks',
     siteUrl: 'https://blog.productmastery.co', // full path to blog - no ending slash
   },
   mapping: {
