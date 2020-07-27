@@ -49,8 +49,8 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Product Mastery',
-  description: 'We Teach You to Build A Profitable Product in 6 Weeks',
+  title: 'Prod MBA • Blog',
+  description: 'We Fast-Track PMs & POs to Head of Product',
   coverImage: 'img/blog-cover-trees.jpg',
   logo: 'img/pm-logo-white.png',
   lang: 'en',
