@@ -19,6 +19,10 @@ module.exports = {
         //  "AW-CONVERSION_ID", // Google Ads / Adwords / AW
         //  "DC-FLOODIGHT_ID", // Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
         ],
+        // Puts tracking script in the head instead of the body
+        head: false,
+        // enable ip anonymization
+        anonymize: true,
       },
     },
     'gatsby-transformer-sharp',
