@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Product Mastery',
     description: 'We Fast-Track PMs & POs to Head of Product',
-    siteUrl: 'https://blog.productmastery.co', // full path to blog - no ending slash
+    siteUrl: 'https://blog.prod.mba', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -65,7 +65,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'UA-XXXX-Y',
+        trackingId: 'G-3ZSNQRFMGK',
         // Puts tracking script in the head instead of the body
         head: true,
         // IP anonymization for GDPR compliance

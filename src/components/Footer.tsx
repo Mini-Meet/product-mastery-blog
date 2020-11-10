@@ -85,7 +85,7 @@ const Footer: React.FC = () => {
             </a>
           )}
 
-          <a href="https://productmastery.co" target="_blank" rel="noopener noreferrer">
+          <a href="https://prod.mba" target="_blank" rel="noopener noreferrer">
             Website
           </a>
 

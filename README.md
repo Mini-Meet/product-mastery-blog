@@ -1,4 +1,4 @@
-# Product Mastery blog
+# Prod MBA blog
 
 ## Getting Started
 
@@ -21,4 +21,3 @@ yarn dev
 ```
 yarn build
 ```
-

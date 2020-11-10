@@ -54,7 +54,7 @@ const config: WebsiteConfig = {
   coverImage: 'img/blog-cover-trees.jpg',
   logo: 'img/pm-logo-white.png',
   lang: 'en',
-  siteUrl: 'https://blog.productmastery.co',
+  siteUrl: 'https://blog.prod.mba',
   linkedin: 'https://www.linkedin.com/in/henry-latham-a78245a6/',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
