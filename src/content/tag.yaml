@@ -1,5 +1,5 @@
 - id: Popular
-  description: Popular product articles, video & podcast episodes:
+  description: Popular product articles, video and podcast episodes
   image: img/author-cover.jpg
 
 - id: Videos
