@@ -37,7 +37,7 @@ const SubscribeEmail = styled.input`
 
 const SubscribeFormButton = styled.button`
   display: inline-block;
-  margin: 0 0 0 10px;
+  margin: 16px 0 0 10px;
   padding: 0 20px;
   height: 41px;
   outline: none;
@@ -82,34 +82,54 @@ const FormGroup = styled.div`
   }
 `;
 
+const ACTIVE_CAMPAIGN_FORM_ACTION_URL =
+  'https://productmastery.activehosted.com/proc.php?';
+
+const formId = 1;
+
 const SubscribeForm: React.FC = () => {
   return (
-    <form
-      noValidate
-      css={SubscribeFormStyles}
-      action={config.mailchimpAction}
-      method="post"
-      id="mc-embedded-subscribe-form"
-      name="mc-embedded-subscribe-form"
-      target="_blank"
-    >
-      {/* This is required for the form to work correctly  */}
-      <FormGroup className="form-group">
-        <SubscribeEmail
-          className="subscribe-email"
-          type="email"
-          name={config.mailchimpEmailFieldName}
-          id={config.mailchimpEmailFieldName}
-          placeholder="youremail@example.com"
-        />
-      </FormGroup>
-      <div style={{ position: 'absolute', left: '-5000px' }} aria-hidden="true">
-        <input type="text" name={config.mailchimpName} tabIndex={-1} />
-      </div>
-      <SubscribeFormButton type="submit">
-        <span>Subscribe</span>
-      </SubscribeFormButton>
-    </form>
+    <div className="activeCampaign">
+      <form
+        action={ACTIVE_CAMPAIGN_FORM_ACTION_URL}
+        method="POST"
+        id="_form_newsletter_"
+        className="activeCampaign__form"
+        noValidate
+      >
+        <input type="hidden" name="u" value={formId} />
+        <input type="hidden" name="f" value={formId} />
+        <input type="hidden" name="s" />
+        <input type="hidden" name="c" value="0" />
+        <input type="hidden" name="m" value="0" />
+        <input type="hidden" name="act" value="sub" />
+        <input type="hidden" name="v" value="2" />
+        <div className="activeCampaign__form_content">
+          <div className="">
+            <label htmlFor="email" className="_form-label"></label>
+            <div className="_field-wrapper">
+              <SubscribeEmail
+                type="text"
+                name="email"
+                placeholder="Enter email"
+                required
+              />
+            </div>
+          </div>
+          <div className="_button-wrapper">
+            <SubscribeFormButton
+              id="_form_newsletter_submit"
+              className="_submit"
+              type="submit"
+            >
+              GET MINI MBA
+            </SubscribeFormButton>
+          </div>
+          <div className="_clear-element"></div>
+        </div>
+        <div classNames="_form-thank-you"></div>
+      </form>
+    </div>
   );
 };
 

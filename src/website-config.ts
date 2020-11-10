@@ -58,7 +58,7 @@ const config: WebsiteConfig = {
   linkedin: 'https://www.linkedin.com/in/henry-latham-a78245a6/',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
-  mailchimpAction: 'https://productmastery.us5.list-manage.com/subscribe/post?u=9452004c3109652cfc9a9e3e1&amp;id=3dd26bab04',
+  mailchimpAction: 'https://productmastery.activehosted.com/proc.php?',
   mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
