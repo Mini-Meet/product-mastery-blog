@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Which Faceless Corporation Runs Product Mastery?"
+title: "Which Faceless Corporation Runs Prod MBA?"
 author: Henry Latham
 tags: [ "culture", "startup", "popular" ]
 image: img/articles/inspiration-11.jpg

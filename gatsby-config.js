@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Product Mastery',
+    title: 'Prod MBA',
     description: 'We Fast-Track PMs & POs to Head of Product',
     siteUrl: 'https://blog.prod.mba', // full path to blog - no ending slash
   },

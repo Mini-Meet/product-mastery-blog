@@ -10,7 +10,7 @@ export const PostFullContent = styled.section`
   margin: 0 auto;
   padding: 70px 100px 0;
   min-height: 230px;
-  font-family: Georgia, serif;
+  font-family: Karla, serif;
   font-size: 2.2rem;
   line-height: 1.6em;
   background: #fff;
@@ -105,10 +105,15 @@ export const PostFullContent = styled.section`
     box-shadow: none;
   }
 
+  .gatsby-resp-image-wrapper {
+    margin-top: 32px;
+    margin-bottom: 64px;
+  }
+
   img,
   video {
     display: block;
-    margin: 1.5em auto;
+    margin: 0em auto;
     max-width: 1040px;
     height: auto;
   }
@@ -140,7 +145,7 @@ export const PostFullContent = styled.section`
   blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
-    border-left: #3eb0ef 3px solid;
+    border-left: #fecd35 3px solid;
   }
 
   blockquote p {
@@ -225,12 +230,11 @@ export const PostFullContent = styled.section`
   h5,
   h6 {
     color: ${setLightness('0.05', colors.darkgrey)};
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
-      'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: Poppins, sans-serif;
   }
 
   h1 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 2em 0 1em 0;
     font-size: 4.6rem;
     font-weight: 700;
   }
@@ -241,7 +245,7 @@ export const PostFullContent = styled.section`
   }
 
   h2 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 2em 0 1em 0;
     font-size: 3.6rem;
     font-weight: 700;
   }
@@ -252,7 +256,7 @@ export const PostFullContent = styled.section`
   }
 
   h3 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 2em 0 1em 0;
     font-size: 2.8rem;
     font-weight: 700;
   }
@@ -263,7 +267,7 @@ export const PostFullContent = styled.section`
   }
 
   h4 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 2em 0 1em 0;
     font-size: 2.8rem;
     font-weight: 700;
   }
@@ -276,10 +280,10 @@ export const PostFullContent = styled.section`
   h5 {
     display: block;
     margin: 0.5em 0;
-    padding: 1em 0 1.5em;
+    padding: 2em 0 1.5em;
     border: 0;
     color: ${colors.yellow};
-    font-family: Georgia, serif;
+    font-family: Poppins, sans-serif;
     font-size: 3.2rem;
     line-height: 1.35em;
     text-align: center;

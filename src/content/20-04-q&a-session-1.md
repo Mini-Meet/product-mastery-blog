@@ -2,7 +2,7 @@
 layout: post
 title: "Watch Our Q&A Session"
 author: Henry Latham
-tags: [ "videos", product management" ]
+tags: [ product management" ]
 image: img/articles/webinar_200405.jpg
 date: "2020-04-05T22:40:32.169Z"
 draft: false

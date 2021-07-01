@@ -94,7 +94,7 @@ But how do we create loyal fans? Well, it’s hard to say. And harder to measure
 Currently, we are pursuing the following product initiative to achieve that goal:
 
 
-PRODUCT INITIATIVE: Help our audience realise that they can dramatically accelerate their career & build great products through Product Mastery
+PRODUCT INITIATIVE: Help our audience realise that they can dramatically accelerate their career & build great products through Prod MBA
 
 
 That seems pretty vague, but bare with me…

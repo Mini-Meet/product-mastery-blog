@@ -8,7 +8,7 @@ date: "2020-01-15T22:40:32.169Z"
 draft: false
 ---
 
-Product Mastery was founded by Henry Latham, a product leader based in Berlin, with a small team of product wizards based in Germany & Croatia.
+Prod MBA was founded by Henry Latham, a product leader based in Berlin, with a small team of product wizards based in Germany & Croatia.
 
 We are proudly self-funded and want to keep it that way (see why here).
 

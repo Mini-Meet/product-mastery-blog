@@ -51,7 +51,7 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Prod MBA • Blog',
   description: 'We Fast-Track PMs & POs to Head of Product',
-  coverImage: 'img/blog-cover-trees.jpg',
+  coverImage: 'img/blog-cover-logos.jpg',
   logo: 'img/pm-logo-white.png',
   lang: 'en',
   siteUrl: 'https://blog.prod.mba',

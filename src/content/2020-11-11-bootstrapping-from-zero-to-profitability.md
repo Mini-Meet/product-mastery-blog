@@ -2,9 +2,9 @@
 layout: post
 title: "Bootstrapping From Zero to Profitability in 4 Months"
 author: Henry Latham
-tags: [ "Bootstrapping", "Entrepreneurship" ]
-image: "media/20201111/image1.jpeg"
-date: "2020-11-11T22:40:32.169Z"
+tags: [ Bootstrapping, popular ]
+image: media/20201111/image1.jpeg
+date: 2020-11-11T22:40:32.169Z
 draft: false
 ---
 

@@ -40,7 +40,7 @@ Just a great solution (easy, organised chat) for an acute problem (team communic
 
 Remember this lesson, because it's key to your professional development:
 
-If you obsess over the details, you miss the bigger picture. You miss the real opportunities - the ideas that customers will go wild for - by keeping your head in the sand. So learning to identify those opportunities, validate those opportunities, then exploit them with a great solution, is THE key to product mastery.
+If you obsess over the details, you miss the bigger picture. You miss the real opportunities - the ideas that customers will go wild for - by keeping your head in the sand. So learning to identify those opportunities, validate those opportunities, then exploit them with a great solution, is THE key to Prod MBA.
 
 Want help learning how to make that happen? Get in touch.
 

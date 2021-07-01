@@ -74,11 +74,12 @@ const PostCardTags = styled.span`
 `;
 
 const PostCardTitle = styled.h2`
+  font-family: Poppins, sans-serif; 
   margin-top: 0;
 `;
 
 const PostCardExcerpt = styled.section`
-  font-family: Georgia, serif;
+  font-family: Karla, serif;
 `;
 
 const PostCardMeta = styled.footer`

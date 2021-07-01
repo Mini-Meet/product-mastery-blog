@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "WHAT is Product?"
+title: "The Problem With Product Work"
 author: Henry Latham
 tags: [ "strategy" ]
 image: img/articles/inspiration-1.jpg
-date: "2020-07-11T22:40:32.169Z"
+date: "2021-02-11T22:40:32.169Z"
 draft: false
 ---
 

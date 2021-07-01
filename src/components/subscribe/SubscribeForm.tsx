@@ -127,7 +127,7 @@ const SubscribeForm: React.FC = () => {
           </div>
           <div className="_clear-element"></div>
         </div>
-        <div classNames="_form-thank-you"></div>
+        <div className="_form-thank-you"></div>
       </form>
     </div>
   );

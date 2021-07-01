@@ -152,6 +152,7 @@ const GlobalStyles = css`
   h1 {
     margin: 0.67em 0;
     font-size: 2em;
+    font-weight: 700;
   }
   small {
     font-size: 80%;
@@ -269,8 +270,7 @@ const GlobalStyles = css`
   body {
     overflow-x: hidden;
     color: ${darken('0.25', colors.midgrey)};
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
-      'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: Karla, sans-serif;
     font-size: 1.5rem;
     line-height: 1.6em;
     font-weight: 400;
@@ -418,6 +418,7 @@ const GlobalStyles = css`
   h4,
   h5,
   h6 {
+    font-family: Poppins, sans-serif;
     margin-top: 0;
     line-height: 1.15;
     font-weight: 700;
@@ -438,6 +439,7 @@ const GlobalStyles = css`
   h2 {
     margin: 1.5em 0 0.5em 0;
     font-size: 2rem;
+    font-weight: 700;
   }
   @media (max-width: 500px) {
     h2 {
@@ -448,7 +450,7 @@ const GlobalStyles = css`
   h3 {
     margin: 1.5em 0 0.5em 0;
     font-size: 1.8rem;
-    font-weight: 500;
+    font-weight: 700;
   }
   @media (max-width: 500px) {
     h3 {

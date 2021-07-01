@@ -53,6 +53,7 @@ const NavStyles = css`
   margin: 0 0 0 -12px;
   padding: 0;
   list-style: none;
+  font-weight: 700;
 
   li {
     display: block;
@@ -141,11 +142,11 @@ class SiteNav extends React.Component<SiteNavProps> {
               <Link to="/tags/popular/">Popular</Link>
             </li>
             <li role="menuitem">
-              <Link to="/tags/videos/">Videos</Link>
+              <Link to="/tags/foundations/">Foundations</Link>
             </li>
             <li role="menuitem">
               <a
-                href="https://www.amazon.com/Why-Your-Startup-Failing-foundations-ebook/dp/B07XD444YV/ref=pd_rhf_ee_p_img_1?_encoding=UTF8&psc=1&refRID=5X596WYG1237FMSSWZ7E"
+                href="https://www.amazon.com/Product-Leadership-Starts-You-Surprising-ebook/dp/B08R8MK71C/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

@@ -2,6 +2,14 @@
   description: Popular product articles, video and podcast episodes
   image: img/author-cover.jpg
 
+- id: Foundations
+  description: Learn the fundamentals of product, from the basics of product strategy & discovery to the foundations of effective product leadership
+  image: img/author-cover.jpg
+
+# discovery & insight
+# strategy & validation
+# solution 
+
 - id: Videos
   description: Popular videos
   image: img/author-cover.jpg
