@@ -82,6 +82,23 @@ export const SiteHeader = css`
   background-size: cover;
 `;
 
+export const PostHeader = css`
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #fff;
+  /* background: color(var(--darkgrey) l(-5%)) no-repeat center center; */
+  background: ${darken('0.05', colors.darkgrey)} no-repeat center center;
+  background-size: cover;
+
+  @media (max-width: 700px) {
+  position: relative;
+    z-index: reset;
+  }
+`;
+
 export const SiteHeaderContent = styled.div`
   display: flex;
   flex-direction: column;

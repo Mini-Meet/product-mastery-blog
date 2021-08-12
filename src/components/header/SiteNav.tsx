@@ -36,9 +36,9 @@ const SiteNavLeft = styled.div`
   overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
   margin-right: 10px;
-  padding-bottom: 80px;
   letter-spacing: 0.4px;
   white-space: nowrap;
+  max-height: 42px;
 
   -ms-overflow-scrolling: touch;
 
@@ -99,16 +99,17 @@ const SocialLinks = styled.div`
 const SubscribeButton = styled.a`
   display: block;
   padding: 4px 10px;
-  border: #fff 1px solid;
-  color: #fff;
-  font-size: 1.2rem;
+  border: #0a0b0c 2px solid;
+  color: #0a0b0c;
+  background-color: #fec71c;
+  font-size: 1.4rem;
+  font-weight: 600;
   line-height: 1em;
-  border-radius: 10px;
-  opacity: 0.8;
+  border-radius: 100px;
 
   :hover {
     text-decoration: none;
-    opacity: 1;
+    opacity: .9;
     cursor: pointer;
   }
 `;

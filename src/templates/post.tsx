@@ -19,13 +19,17 @@ import Subscribe from '../components/subscribe/Subscribe';
 import Wrapper from '../components/Wrapper';
 import IndexLayout from '../layouts';
 import { colors } from '../styles/colors';
-import { inner, outer, SiteHeader, SiteMain } from '../styles/shared';
+import { inner, outer, PostHeader, SiteMain } from '../styles/shared';
 import config from '../website-config';
 
 const PostTemplate = css`
   .site-main {
     background: #fff;
     padding-bottom: 4vw;
+    padding-top: 120px;
+    @media (max-width: 500px) {
+      padding-top: 80px;
+    }
   }
 `;
 
@@ -259,7 +263,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
         {height && <meta property="og:image:height" content={height} />}
       </Helmet>
       <Wrapper css={PostTemplate}>
-        <header css={[outer, SiteHeader]}>
+        <header css={[outer, PostHeader]}>
           <div css={inner}>
             <SiteNav />
           </div>
