@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “How To Successfully Apply For Roles Requiring 3+/5+ Years Experience“
+title: “Part 1 • How To Successfully Apply For Roles Requiring 3+/5+ Years Experience“
 author: Henry Latham
 tags: [ career ]
 image: "media/20210812/hero.jpg"
@@ -30,7 +30,8 @@ I will then go on to outline 3 specific, proven tactics that we have successfull
 
 [Antonia](https://prod.mba/story/antonia), [Elaine](https://prod.mba/story/elaine) & [Tom](https://prod.mba/story/tom) all show that this process really does work.
 
-In this article, Part 1, we will cover that first tactic in detail.
+In this article, Part 1, we will cover that first tactic in detail. In [Part 2](https://blog.prod.mba/2021-08-19-pt-2-successfully-apply-for-5-year-roles/), we'll then cover the other tactics.
+
 
 But first…
 
@@ -334,7 +335,9 @@ You can successfully apply for any role requiring far more years of experience t
 
 **Want to get started building your product playbook?**
 
-**There are two things you can do:**
+**There are three things you can do:**
+
+👉 Read [Part 2](https://blog.prod.mba/2021-08-19-pt-2-successfully-apply-for-5-year-roles/)
 
 👉 Get started with our free 7-Day Mini MBA [here](https://bit.ly/3xKY9mB)
 

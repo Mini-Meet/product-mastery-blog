@@ -6,9 +6,13 @@
   description: Learn the fundamentals of product, from the basics of product strategy & discovery to the foundations of effective product leadership
   image: img/author-cover.jpg
 
+- id: Career
+  description: Learn the secrets to effective interviewing
+  image: img/author-cover.jpg
+
 # discovery & insight
 # strategy & validation
-# solution 
+# solution
 
 - id: Videos
   description: Popular videos
