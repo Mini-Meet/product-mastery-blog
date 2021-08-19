@@ -185,12 +185,12 @@ _2. We also completed a Blue Ocean Strategy Canvas to understand whether our off
 
 Again, even if you didn’t approach your product with this exact process, simply spend time restructuring your old process to fit this OKR framework. It will more effectively demonstrate you understand how to approach product, as well as presenting a logical, clear story of your product process to the person interviewing you.
 
- <img src="./media/20210819/image7.jpeg” alt="img">
+<img src="./media/20210819/image7.jpeg" alt="img">
 
 Any ways to visualise this, such as the one above, are always powerful in reinforcing your points (and your competencies).
 
 
- <img src="./media/20210819/image8.jpeg" alt="img">
+<img src="./media/20210819/image8.jpeg" alt="img">
 
 #### Case Study: Validated Product Vision
 
@@ -202,8 +202,7 @@ Why?
 
 It implies you understand the importance of vision, of how to craft one, of how to be truly customer-centric from Day 1, as well as understanding what product strategy is (i.e. focusing on one specific area of value, rather than trying to do everything in a busy market).
 
-
- <img src="./media/20210819/image9.jpeg” alt="img">
+<img src="./media/20210819/image9.jpeg" alt="img">
 
 #### Case Study: Building Solutions
 
@@ -221,7 +220,7 @@ If you really want to build a full, compelling Case Study, in Prod MBA, we sugge
 4. Your process for building out a prototype, testing it & iterating on it before actually developing a custom-coded solution
 5. The Product-Market Fit Engine for objectively validating whether your product has achieved product-market fit or no
 
- <img src="./media/20210819/image10.jpeg alt="img">
+ <img src="./media/20210819/image10.jpeg" alt="img">
 
 You can get [all of the slides for building out a full Case Study here](https://www.dropbox.com/s/evoildadg64l0hf/Prod%20MBA%20Case%20Study.key?dl=0).
 
