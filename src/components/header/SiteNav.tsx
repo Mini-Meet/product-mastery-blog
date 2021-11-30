@@ -143,15 +143,18 @@ class SiteNav extends React.Component<SiteNavProps> {
               <Link to="/tags/popular/">Popular</Link>
             </li>
             <li role="menuitem">
+              <Link to="/tags/stories/">Stories</Link>
+            </li>
+            <li role="menuitem">
               <Link to="/tags/foundations/">Foundations</Link>
             </li>
             <li role="menuitem">
               <a
-                href="https://www.amazon.com/Product-Leadership-Starts-You-Surprising-ebook/dp/B08R8MK71C/"
+                href="https://www.prod.mba/free-product-leadership-book"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Book
+                Free Book
               </a>
             </li>
           </ul>

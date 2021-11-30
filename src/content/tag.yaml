@@ -2,6 +2,10 @@
   description: Popular product articles, video and podcast episodes
   image: img/author-cover.jpg
 
+- id: Stories
+  description: Stories & successes from our Prod MBA alumni
+  image: img/author-cover.jpg
+
 - id: Foundations
   description: Learn the fundamentals of product, from the basics of product strategy & discovery to the foundations of effective product leadership
   image: img/author-cover.jpg
