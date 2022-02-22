@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “How Antonia Became A More Confident Product Leader“
+title: How Antonia Became A More Confident Product Leader
 author: Henry Latham
 tags: [ stories ]
 image: "media/stories/antonia.jpg"

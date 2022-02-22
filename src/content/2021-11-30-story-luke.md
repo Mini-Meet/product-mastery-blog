@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “How Luke Built A Profitable Product in 6 Weeks“
+title: How Luke Built A Profitable Product in 6 Weeks
 author: Henry Latham
 tags: [ stories ]
 image: "media/stories/luke.jpg"

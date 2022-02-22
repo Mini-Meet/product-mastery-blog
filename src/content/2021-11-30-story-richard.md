@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “How Richard Aligned His Org Around a Billion Dollar Idea“
+title: How Richard Aligned His Org Around a Billion Dollar Idea
 author: Henry Latham
 tags: [ stories ]
 image: "media/stories/richard.jpg"
