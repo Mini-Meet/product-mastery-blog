@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@babel/plugin-transform-classes": "^7.16.7",
+    "@babel/plugin-transform-spread": "^7.12.1",
     "@emotion/core": "10.0.14",
     "@emotion/styled": "10.0.14",
     "@emotion/styled-base": "10.0.14",
