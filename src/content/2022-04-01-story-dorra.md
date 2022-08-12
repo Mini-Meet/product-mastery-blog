@@ -24,11 +24,13 @@ The title would be great, but I wanted to actually excel in that role. To be tru
 
 It was extremely frustrating.
 
-I was stuck in a toxic environment, with no process, no understanding of product - and no clear way out.
+I felt stuck in an out-dated product culture with no true product team, structure, or understanding of product management.
 
-And, even if I got promotion, I kept asking myself:
+Even if I got promotion, I kept asking myself:
 
-Would I actually deserve it? Was I ready to truly lead?
+*Would I actually deserve it? Was I ready to truly lead?*
+
+I wasn't even sure what good product leadership really even looked like...
 
 
 
@@ -51,7 +53,9 @@ Finally, the support of the mentors was so authentic. From the accountability of
 
 I realised Prod MBA was having a big impact on my career from the first 2 weeks.
 
-In the onboarding, I had to come up with a lot of “acute problems” I could try to solve with a solution. One of those - helping people get their first product role - I didn’t take seriously.
+In the onboarding, I had to come up with a lot of “acute problems” I could try to solve with a solution.
+
+One of those - helping people get their first product role - was always in my mind in the past 2 years, but I never had the courage to give it a chance
 
 Thanks to Prod MBA, I gained the self-confidence to actually pursue my idea, as well as understanding how to validate demand from the market in Week 2, which gave me even more confidence moving forward.
 
@@ -60,21 +64,13 @@ Thanks to Prod MBA, I gained the self-confidence to actually pursue my idea, as 
 
 Throughout the course, I became more & more confident in my abilities & in the direction I wanted to take.
 
-I realised exactly what I wanted from my career: To work in a strong product company where I could really grow as a product leader.
+I was able to bring in a strong product process and be confident pushing that process.
+
+More importantly for me personally, I realised exactly what I wanted from my career: To work in a strong product company where I could really grow as a product leader.
 
 This helped me land a job at Amazon, working in a product-led environment (and helping me determine my exact level as a Product Manager in the process).
 
-In my day-to-day work, we also now have a strong process!
 
-I have been confidently pushing a new process for idea validation, a clear strategy & am training others to adopt this process.
-
-For example, we launched a new product this month & it has a clear budget & resources just for a 6-month validation phase (before we commit to the opportunity). This would not have happened even just 3 months ago.
-
-
-
-
-
-_
 
 
 *Dorra now works as a Senior PM at Amazon, securing the role after graduating Prod MBA*
