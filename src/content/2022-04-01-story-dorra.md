@@ -3,9 +3,9 @@ layout: post
 title: How Dorra Discovered Purpose & Got A New Role at Amazon
 author: Henry Latham
 tags: [ stories ]
-image: "media/stories/tom.jpg"
+image: "media/stories/dorra-header.jpg"
 date: 2022-04-01
-draft: true
+draft: false
 ---
 
 ## Stuck in My Process & Stuck in My Role
